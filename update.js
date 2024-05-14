@@ -1,1 +1,1 @@
-console.log('update code');
+console.log('update code ver 1.2');
