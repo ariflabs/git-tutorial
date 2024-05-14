@@ -1,2 +1,2 @@
 console.log('connect DB');
-console.log('ver 3');
+console.log('ver 0.1');
